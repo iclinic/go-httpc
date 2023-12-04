@@ -1,4 +1,4 @@
-module github.com/thiagozs/go-httpc
+module github.com/iclinic/go-httpc
 
 go 1.20
 
